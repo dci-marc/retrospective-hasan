@@ -89,8 +89,12 @@ Unfortunately nothing to provide.
 
 ## Week 6
 
-### 3. Java Static Methods
+### 1. Java Static Methods
 
 - Exercise: https://github.com/dci-marc/w06-d01
 - Implementation: https://github.com/dci-marc/w06-d01/tree/main/src/main/java/org/dcistudent
 
+### 2. Java Loops
+
+- Exercise: https://github.com/dci-marc/w06-d02
+- Implementation: https://github.com/dci-marc/w06-d02/tree/main/src/main/java
