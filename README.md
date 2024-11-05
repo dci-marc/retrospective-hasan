@@ -2,31 +2,31 @@
 
 ## Week 1 & 2
 
-### Using the terminal/command line
+### 1. Using the terminal/command line
 
 Unfortunately nothing to provide.
 
-### 1. GitHub
+### 2. GitHub
 
 - Exercise: https://github.com/dci-marc/github-practice
 - Implementation: https://github.com/dci-marc/DCI-intro
 
-### 2. Describing `git` commands
+### 3. Describing `git` commands
 
 - Exercise: Missing
 - Implementation: https://github.com/dci-marc/w02-d01-e04/blob/main/git-commands.md
 
-### 3. URL resources
+### 4. URL resources
 
 - Exercise: Missing
 - Implementation: https://github.com/dci-marc/w02-d03-e04
 
-### 4. Basic HTML & CSS
+### 5. Basic HTML & CSS
 
 - Exercise: Missing
 - Implementation: https://github.com/dci-marc/w02-d03-e01-e03
 
-### 5. CSS Flexbox
+### 6. CSS Flexbox
 
 - Exercise: https://github.com/dci-marc/W02-D04-Fundementals-Flexbox (partially)
 - Implementation 1: https://dci-marc.github.io/w02-d04-e01/
