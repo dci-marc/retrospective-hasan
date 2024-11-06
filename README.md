@@ -98,3 +98,8 @@ Unfortunately nothing to provide.
 
 - Exercise: https://github.com/dci-marc/w06-d02
 - Implementation: https://github.com/dci-marc/w06-d02/tree/main/src/main/java
+
+### 3. Java Logical Expressions
+
+- Exercise: https://github.com/dci-marc/w06-d03
+- Implementation: https://github.com/dci-marc/w06-d03/tree/main/src/main/java
