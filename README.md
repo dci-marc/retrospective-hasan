@@ -103,3 +103,8 @@ Unfortunately nothing to provide.
 
 - Exercise: https://github.com/dci-marc/w06-d03
 - Implementation: https://github.com/dci-marc/w06-d03/tree/main/src/main/java
+
+### 4. Java Evaluation Precedence
+
+- Exercise: https://github.com/dci-marc/w06-d04
+- Implementation: https://github.com/dci-marc/w06-d04/tree/main/src/main/java/org/digitalcareerinstitute
