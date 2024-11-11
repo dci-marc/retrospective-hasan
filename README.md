@@ -108,3 +108,11 @@ Unfortunately nothing to provide.
 
 - Exercise: https://github.com/dci-marc/w06-d04
 - Implementation: https://github.com/dci-marc/w06-d04/tree/main/src/main/java/org/digitalcareerinstitute
+
+## Week 7
+
+### 1. Java Arrays
+
+- Exercise 1: https://github.com/dci-marc/W07-D01-Java-Arrays/tree/main/Exercises/Array-Lab
+- Exercise 2: https://github.com/dci-marc/W07-D01-Java-Arrays/tree/main/Exercises/Java-LogicalThinking-II
+- Implementation: https://github.com/dci-marc/W07-D01-Java-Arrays/tree/main/src/main/java/org/dcistudent/infamousjohn
