@@ -116,3 +116,8 @@ Unfortunately nothing to provide.
 - Exercise 1: https://github.com/dci-marc/W07-D01-Java-Arrays/tree/main/Exercises/Array-Lab
 - Exercise 2: https://github.com/dci-marc/W07-D01-Java-Arrays/tree/main/Exercises/Java-LogicalThinking-II
 - Implementation: https://github.com/dci-marc/W07-D01-Java-Arrays/tree/main/src/main/java/org/dcistudent/infamousjohn
+
+### 2. Java Array Lists
+
+- Exercise: https://github.com/dci-marc/w07-d02
+- Implementation: https://github.com/dci-marc/w07-d02/tree/main/src/main/java/org/dcistudent
