@@ -119,5 +119,5 @@ Unfortunately nothing to provide.
 
 ### 2. Java Array Lists
 
-- Exercise: https://github.com/dci-marc/w07-d02
-- Implementation: https://github.com/dci-marc/w07-d02/tree/main/src/main/java/org/dcistudent
+- Exercise: https://github.com/dci-marc/W07-D02-Java-ArrayLists/tree/main/Exercises/ArrayList-Exercises
+- Implementation: https://github.com/dci-marc/W07-D02-Java-ArrayLists/tree/main/src/main/java/org/dcistudent
