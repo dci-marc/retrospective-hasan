@@ -121,3 +121,10 @@ Unfortunately nothing to provide.
 
 - Exercise: https://github.com/dci-marc/W07-D02-Java-ArrayLists/tree/main/Exercises/ArrayList-Exercises
 - Implementation: https://github.com/dci-marc/W07-D02-Java-ArrayLists/tree/main/src/main/java/org/dcistudent
+
+### 3. Java Class Properties, Getter/Setter
+
+- Exercise 1: https://github.com/dci-marc/w07-d03
+- Exercise 2: https://github.com/dci-marc/W07-D03-OOP-Basics/tree/main/labs
+- Implementation 1: https://github.com/dci-marc/w07-d03/tree/main/src/main/java/org/dcistudent
+- Implementation 2: https://github.com/dci-marc/W07-D03-OOP-Basics/tree/main/labs
