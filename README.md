@@ -128,3 +128,8 @@ Unfortunately nothing to provide.
 - Exercise 2: https://github.com/dci-marc/W07-D03-OOP-Basics/tree/main/labs
 - Implementation 1: https://github.com/dci-marc/w07-d03/tree/main/src/main/java/org/dcistudent
 - Implementation 2: https://github.com/dci-marc/W07-D03-OOP-Basics/tree/main/labs
+
+### 4. Java Classes & Objects
+
+- Exercise: https://github.com/dci-marc/W07-D04-Classes-Objects/tree/main/lab/classes-objects-lab
+- Implementation: https://github.com/dci-marc/W07-D04-Classes-Objects/tree/main/src/main/java/org/dcistudent
