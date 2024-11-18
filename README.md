@@ -139,6 +139,10 @@ Unfortunately nothing to provide.
 ### 1. Java Inheritance
 
 - Exercise 1: https://github.com/dci-marc/w08-d01
-- Exercise 2:
+- Exercise 2: https://github.com/dci-marc/W08-D01-Inheritance/tree/main/labs/01-java-oop-concepts-movie-inheritance
+- Exercise 3: https://github.com/dci-marc/W08-D01-Inheritance/tree/main/labs/02-Java-oop_concepts-inheritance
+- Exercise 4: https://github.com/dci-marc/W08-D01-Inheritance/tree/main/labs/03-Java-oop_concepts-bank_account
 - Implementation 1: https://github.com/dci-marc/w08-d01/tree/main/src/main/java/org/dcistudent
-- Implementation 2:
+- Implementation 2 & 3: https://github.com/dci-marc/W08-D01-Inheritance/tree/main/src/main/java/org/dcistudent
+- Implementation
+  4: https://github.com/dci-marc/W08-D01-Inheritance/tree/main/labs/03-Java-oop_concepts-bank_account/src/main/java
