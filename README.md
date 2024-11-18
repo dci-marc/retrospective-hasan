@@ -133,3 +133,12 @@ Unfortunately nothing to provide.
 
 - Exercise: https://github.com/dci-marc/W07-D04-Classes-Objects/tree/main/lab/classes-objects-lab
 - Implementation: https://github.com/dci-marc/W07-D04-Classes-Objects/tree/main/src/main/java/org/dcistudent
+
+## Week 8
+
+### 1. Java Inheritance
+
+- Exercise 1: https://github.com/dci-marc/w08-d01
+- Exercise 2:
+- Implementation 1: https://github.com/dci-marc/w08-d01/tree/main/src/main/java/org/dcistudent
+- Implementation 2:
