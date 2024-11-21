@@ -36,6 +36,8 @@ Unfortunately nothing to provide.
 - Implementation 5: https://github.com/dci-marc/w02-d04-e02-omar
 - Implementation 6: https://github.com/dci-marc/w02-d04-e03-omar
 
+---
+
 ## Week 3
 
 ### 1. JavaScript Basics
@@ -58,6 +60,8 @@ Unfortunately nothing to provide.
 - Exercise: Missing
 - Implementation: https://github.com/dci-marc/w03-d04/tree/main/src
 
+---
+
 ## Week 4
 
 ### 1. Java Basic String Manipulation
@@ -75,6 +79,8 @@ Unfortunately nothing to provide.
 - Exercise: https://github.com/dci-marc/w04-d04
 - Implementation: https://github.com/dci-marc/w04-d04/tree/main/src/main/java/org/dcistudent
 
+---
+
 ## Week 5
 
 ### 1. Java Declaring Methods
@@ -86,6 +92,8 @@ Unfortunately nothing to provide.
 
 - Exercise: https://github.com/dci-marc/w05-d02
 - Implementation: https://github.com/dci-marc/w05-d02/tree/main/src/main/java/org/digitalcareerinstitute
+
+---
 
 ## Week 6
 
@@ -108,6 +116,8 @@ Unfortunately nothing to provide.
 
 - Exercise: https://github.com/dci-marc/w06-d04
 - Implementation: https://github.com/dci-marc/w06-d04/tree/main/src/main/java/org/digitalcareerinstitute
+
+---
 
 ## Week 7
 
@@ -134,6 +144,8 @@ Unfortunately nothing to provide.
 - Exercise: https://github.com/dci-marc/W07-D04-Classes-Objects/tree/main/lab/classes-objects-lab
 - Implementation: https://github.com/dci-marc/W07-D04-Classes-Objects/tree/main/src/main/java/org/dcistudent
 
+---
+
 ## Week 8
 
 ### 1. Java Inheritance
@@ -146,3 +158,14 @@ Unfortunately nothing to provide.
 - Implementation 2 & 3: https://github.com/dci-marc/W08-D01-Inheritance/tree/main/src/main/java/org/dcistudent
 - Implementation
   4: https://github.com/dci-marc/W08-D01-Inheritance/tree/main/labs/03-Java-oop_concepts-bank_account/src/main/java
+
+### 2. Java Polymorphism
+
+- Exercise 1: https://github.com/dci-marc/W08-D02-Abstraction/tree/main/labs/01-java-oop-movie-abstraction
+- Exercise 2: https://github.com/dci-marc/W08-D02-Abstraction/tree/main/labs/02-Java-oop_concepts-books
+- Exercise
+  3: https://github.com/dci-marc/W08-D02-Abstraction/tree/main/labs/03-Java-oop_in_practice-abs_class_and_interface
+- Implementation 1: https://github.com/dci-marc/W08-D02-Abstraction/tree/main/src/main/java/org/dcistudent
+- Implementation
+  2: https://github.com/dci-marc/W08-D02-Abstraction/tree/main/labs/02-Java-oop_concepts-books/src/main/java
+- Implementation 3: tba
