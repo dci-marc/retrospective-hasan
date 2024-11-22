@@ -168,7 +168,8 @@ Unfortunately nothing to provide.
 - Implementation 1: https://github.com/dci-marc/W08-D02-Abstraction/tree/main/src/main/java/org/dcistudent
 - Implementation
   2: https://github.com/dci-marc/W08-D02-Abstraction/tree/main/labs/02-Java-oop_concepts-books/src/main/java
-- Implementation 3: tba
+- Implementation
+  3: https://github.com/dci-marc/W08-D02-Abstraction/tree/main/labs/03-Java-oop_in_practice-abs_class_and_interface/src/main/java
 
 ### 3. Java Maps & Sets
 
