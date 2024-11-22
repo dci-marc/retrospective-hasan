@@ -169,3 +169,8 @@ Unfortunately nothing to provide.
 - Implementation
   2: https://github.com/dci-marc/W08-D02-Abstraction/tree/main/labs/02-Java-oop_concepts-books/src/main/java
 - Implementation 3: tba
+
+### 3. Java Maps & Sets
+
+- Exercise: https://github.com/dci-marc/W08-D04-Maps/tree/main/labs/java-collections-hashmap
+- Implementation: https://github.com/dci-marc/W08-D04-Maps/tree/main/src/main/java/org/dcistudent
