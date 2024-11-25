@@ -175,3 +175,10 @@ Unfortunately nothing to provide.
 
 - Exercise: https://github.com/dci-marc/W08-D04-Maps/tree/main/labs/java-collections-hashmap
 - Implementation: https://github.com/dci-marc/W08-D04-Maps/tree/main/src/main/java/org/dcistudent
+
+## Week 9
+
+### 1. Java Sets & Linked Lists
+
+- Exercise: https://github.com/dci-marc/W09-D01-Sets-LinkedLists/tree/main/labs
+- Implementation: https://github.com/dci-marc/W09-D01-Sets-LinkedLists/tree/main/src/main/java/org/dcistudent
