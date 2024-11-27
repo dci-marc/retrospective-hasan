@@ -182,3 +182,17 @@ Unfortunately nothing to provide.
 
 - Exercise: https://github.com/dci-marc/W09-D01-Sets-LinkedLists/tree/main/labs
 - Implementation: https://github.com/dci-marc/W09-D01-Sets-LinkedLists/tree/main/src/main/java/org/dcistudent
+
+### 2. Java Design Patterns & Structures
+
+- Exercise: https://github.com/dci-marc/W09-D02-Design-Patterns/tree/main/labs
+- Implementation: https://github.com/dci-marc/W09-D02-Design-Patterns/tree/main/src/main/java/org/dcistudent
+
+### 3. Java Type Casting
+
+-
+
+Exercise: https://github.com/dci-marc/W09-D03-Type-Casting/tree/main/labs/Java-oop_in_practice-widening_narrowing_primitives
+
+-
+Implementation: https://github.com/dci-marc/W09-D03-Type-Casting/tree/main/labs/Java-oop_in_practice-widening_narrowing_primitives/src/main/java
