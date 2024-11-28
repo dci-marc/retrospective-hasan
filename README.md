@@ -193,6 +193,11 @@ Unfortunately nothing to provide.
 -
 
 Exercise: https://github.com/dci-marc/W09-D03-Type-Casting/tree/main/labs/Java-oop_in_practice-widening_narrowing_primitives
-
 -
 Implementation: https://github.com/dci-marc/W09-D03-Type-Casting/tree/main/labs/Java-oop_in_practice-widening_narrowing_primitives/src/main/java
+
+### 4. Java Up-/Downcasting
+
+- Exercise 1: https://github.com/dci-marc/W09-D04-Casting-Objects/tree/main/01-upcasting-and-downcasting
+- Exercise 2: https://github.com/dci-marc/W09-D04-Casting-Objects/tree/main/02-casting-non-primitives
+- Implementation: https://github.com/dci-marc/W09-D04-Casting-Objects/tree/main/src/main/java/org/dcistudent
