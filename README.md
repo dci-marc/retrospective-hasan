@@ -201,3 +201,10 @@ Implementation: https://github.com/dci-marc/W09-D03-Type-Casting/tree/main/labs/
 - Exercise 1: https://github.com/dci-marc/W09-D04-Casting-Objects/tree/main/01-upcasting-and-downcasting
 - Exercise 2: https://github.com/dci-marc/W09-D04-Casting-Objects/tree/main/02-casting-non-primitives
 - Implementation: https://github.com/dci-marc/W09-D04-Casting-Objects/tree/main/src/main/java/org/dcistudent
+
+## Week 10
+
+### 1. Java Debugging
+
+- Exercise: https://github.com/dci-marc/W10-D01-Debugging/tree/main/labs
+- Implementation: https://github.com/dci-marc/W10-D01-Debugging/tree/main/src/main/java/org/dcistudent
