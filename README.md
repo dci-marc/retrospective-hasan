@@ -208,3 +208,10 @@ Implementation: https://github.com/dci-marc/W09-D03-Type-Casting/tree/main/labs/
 
 - Exercise: https://github.com/dci-marc/W10-D01-Debugging/tree/main/labs
 - Implementation: https://github.com/dci-marc/W10-D01-Debugging/tree/main/src/main/java/org/dcistudent
+
+### 2. Java Scanner
+
+- Exercise 1: https://github.com/dci-marc/w10-d02
+- Exercise 2: https://github.com/dci-marc/W10-D02-Scanner/tree/main/labs/scanner-lab
+- Implementation 1: https://github.com/dci-marc/w10-d02/tree/main/src/main/java/org/dcistudent
+- Implementation 2: https://github.com/dci-marc/W10-D02-Scanner/tree/main/src/main/java/org/dcistudent
