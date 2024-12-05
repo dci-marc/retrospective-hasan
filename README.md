@@ -218,7 +218,9 @@ Implementation: https://github.com/dci-marc/W09-D03-Type-Casting/tree/main/labs/
 
 ### 3. Java Dates
 
-- Exercise 1: https://github.com/dci-marc/W10-D03-Dates/tree/main/labs/dates-lab
-- Exercise 2: https://github.com/dci-marc/W10-D03-Dates/tree/main/labs/BONUS-dates-lab
-- Implementation 1: https://github.com/dci-marc/W10-D03-Dates/tree/main/src/main/java/org/dcistudent (partially)
-- Implementation 2: TBD
+- Exercise 1 & 2: https://github.com/dci-marc/w10-d03
+- Exercise 3: https://github.com/dci-marc/W10-D03-Dates/tree/main/labs/dates-lab
+- Exercise 4: https://github.com/dci-marc/W10-D03-Dates/tree/main/labs/BONUS-dates-lab
+- Implementation 1 & 2: https://github.com/dci-marc/w10-d03/tree/main/src/main/java/org/dcistudent
+- Implementation 3: https://github.com/dci-marc/W10-D03-Dates/tree/main/src/main/java/org/dcistudent (partially)
+- Implementation 4: TBD
