@@ -224,3 +224,33 @@ Implementation: https://github.com/dci-marc/W09-D03-Type-Casting/tree/main/labs/
 - Implementation 1 & 2: https://github.com/dci-marc/w10-d03/tree/main/src/main/java/org/dcistudent
 - Implementation 3: https://github.com/dci-marc/W10-D03-Dates/tree/main/src/main/java/org/dcistudent (partially)
 - Implementation 4: TBD
+
+### 4. Java Buffered Reader/Writer
+
+- Exercise 1: https://github.com/dci-marc/W10-D04-IO/tree/main/labs/IO-lab
+- Exercise 2: https://github.com/dci-marc/W10-D04-IO/tree/main/labs/BONUS-IO-lab
+- Implementation 1: https://github.com/dci-marc/W10-D04-IO/tree/main/src/main/java/org/dcistudent
+- Implementation 2: Not done (bonus).
+-
+
+## Week 11 (Project Week)
+
+### 1-5. Banking App
+
+- Exercise 1: https://github.com/dci-marc/banking-app/tree/dev/Banking-Project
+- Exercise 2: https://github.com/dci-marc/banking-app/tree/dev/BONUS-project-tic-tac-toe
+- Exercise 3: https://github.com/dci-marc/banking-app/tree/dev/BONUS-2-Project-Hangman
+- Implementation 1: https://github.com/dci-marc/banking-app/tree/dev/src/main/java/org/dcistudent/banking
+- Implementation 2: Not done (bonus).
+- Implementation 3: Not done (bonus).
+
+## Week 12
+
+### 1-2. Project Week
+
+### 3. Anonymous, sealed, non-sealed, final classes/interfaces
+
+- Exercise 1: https://github.com/dci-marc/W12-D03-Anonymous-Sealed-Classes/tree/main/labs/anonynomous-class-lab
+- Exercise 2: https://github.com/dci-marc/W12-D03-Anonymous-Sealed-Classes/tree/main/labs/sealed-classes-lab
+- Implementation 1 &
+  2: https://github.com/dci-marc/W12-D03-Anonymous-Sealed-Classes/tree/main/src/main/java/org/dcistudent
