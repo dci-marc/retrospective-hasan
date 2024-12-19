@@ -254,3 +254,11 @@ Implementation: https://github.com/dci-marc/W09-D03-Type-Casting/tree/main/labs/
 - Exercise 2: https://github.com/dci-marc/W12-D03-Anonymous-Sealed-Classes/tree/main/labs/sealed-classes-lab
 - Implementation 1 &
   2: https://github.com/dci-marc/W12-D03-Anonymous-Sealed-Classes/tree/main/src/main/java/org/dcistudent
+
+### 4. Java Records & Enums
+
+- Exercise 1 & 2: https://github.com/dci-marc/w12-d04
+- Exercise 3: https://github.com/dci-marc/W12-D04-Records-Enums/tree/main/labs/enum-lab
+- Exercise 4: https://github.com/dci-marc/W12-D04-Records-Enums/tree/main/labs/records-lab
+- Implementation 1 & 2: https://github.com/dci-marc/w12-d04/tree/main/src/main/java/org/dcistudent
+- Implementation 3 & 4: https://github.com/dci-marc/W12-D04-Records-Enums/tree/main/src/main/java/org/dcistudent
