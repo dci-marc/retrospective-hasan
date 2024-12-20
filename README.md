@@ -262,3 +262,8 @@ Implementation: https://github.com/dci-marc/W09-D03-Type-Casting/tree/main/labs/
 - Exercise 4: https://github.com/dci-marc/W12-D04-Records-Enums/tree/main/labs/records-lab
 - Implementation 1 & 2: https://github.com/dci-marc/w12-d04/tree/main/src/main/java/org/dcistudent
 - Implementation 3 & 4: https://github.com/dci-marc/W12-D04-Records-Enums/tree/main/src/main/java/org/dcistudent
+
+### 5. Java Pac-Man Game
+
+- Exercise: https://github.com/dci-marc/w12-d05
+- Implementation: https://github.com/dci-marc/w12-d05/tree/main/src/main/java/org/dcistudent
