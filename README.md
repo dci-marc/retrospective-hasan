@@ -267,3 +267,30 @@ Implementation: https://github.com/dci-marc/W09-D03-Type-Casting/tree/main/labs/
 
 - Exercise: https://github.com/dci-marc/w12-d05
 - Implementation: https://github.com/dci-marc/w12-d05/tree/main/src/main/java/org/dcistudent
+
+## Week 13
+
+### 1. Java JUnit Testing
+
+- Exercise 1: https://github.com/dci-marc/W13-D01-Testing-JUnit/tree/main/labs/01-java-testing-annotations
+- Exercise 2: https://github.com/dci-marc/W13-D01-Testing-JUnit/tree/main/labs/02-java-testing-assertions
+- Exercise 3: https://github.com/dci-marc/W13-D01-Testing-JUnit/tree/main/labs/03-java-testing-lab
+- Exercise 4 (Bonus): https://github.com/dci-marc/W13-D01-Testing-JUnit/tree/main/labs/BONUS-java-testing
+- Implementation
+  1: https://github.com/dci-marc/W13-D01-Testing-JUnit/tree/main/labs/01-java-testing-annotations/src/test/java/com/dci/testing
+- Implementation
+  2: https://github.com/dci-marc/W13-D01-Testing-JUnit/tree/main/labs/02-java-testing-assertions/src/main/java/com/dci/assertions
+- Implementation
+  3: https://github.com/dci-marc/W13-D01-Testing-JUnit/tree/main/labs/03-java-testing-lab/src/main/java/com/dci
+- Implementation 4 (Bonus): Not done.
+
+### 2. Java Mockito Testing
+
+- Exercise 1: https://github.com/dci-marc/W13-D02-Mockito/tree/main/labs/01-java-testing-mockito
+- Exercise 2: https://github.com/dci-marc/W13-D02-Mockito/tree/main/labs/02-junit-tdd-calculator
+- Exercise 3: https://github.com/dci-marc/W13-D02-Mockito/tree/main/labs/03-junit-tdd-oddeven
+- Implementation
+  1: https://github.com/dci-marc/W13-D02-Mockito/tree/main/labs/01-java-testing-mockito/src/main/java/com/dci/mockito
+- Implementation
+  2: https://github.com/dci-marc/W13-D02-Mockito/tree/main/labs/02-junit-tdd-calculator/src/main/java/org/dcistudent
+- Implementation 3: https://github.com/dci-marc/W13-D02-Mockito/tree/main/labs/03-junit-tdd-oddeven/src/main/java
