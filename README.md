@@ -294,3 +294,13 @@ Implementation: https://github.com/dci-marc/W09-D03-Type-Casting/tree/main/labs/
 - Implementation
   2: https://github.com/dci-marc/W13-D02-Mockito/tree/main/labs/02-junit-tdd-calculator/src/main/java/org/dcistudent
 - Implementation 3: https://github.com/dci-marc/W13-D02-Mockito/tree/main/labs/03-junit-tdd-oddeven/src/main/java
+
+### 3. Java Coding Standards - Google Style
+
+- Exercise 1: https://github.com/dci-marc/W13-D03-Advanced-Mockito/tree/main/labs/02-java-coding-standards-google-style
+- Exercise
+  2: https://github.com/dci-marc/W13-D03-Advanced-Mockito/tree/main/labs/03-java-coding-standards-google-style-calculator
+- Implementation
+  1: https://github.com/dci-marc/W13-D03-Advanced-Mockito/tree/main/labs/02-java-coding-standards-google-style/src/main/java/com/company/project/application
+- Implementation
+  2: https://github.com/dci-marc/W13-D03-Advanced-Mockito/tree/main/labs/03-java-coding-standards-google-style-calculator/src/main/java
