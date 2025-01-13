@@ -304,3 +304,13 @@ Implementation: https://github.com/dci-marc/W09-D03-Type-Casting/tree/main/labs/
   1: https://github.com/dci-marc/W13-D03-Advanced-Mockito/tree/main/labs/02-java-coding-standards-google-style/src/main/java/com/company/project/application
 - Implementation
   2: https://github.com/dci-marc/W13-D03-Advanced-Mockito/tree/main/labs/03-java-coding-standards-google-style-calculator/src/main/java
+
+## Week 14
+
+### 1. Java Functional Programming
+
+- Exercise 1-3: https://github.com/dci-marc/w14-d01
+- Exercise 4: https://github.com/dci-marc/W14-D01-Functional-Programming/tree/main/labs/Functional-programming-exercise
+- Implementation 1-3: https://github.com/dci-marc/w14-d01/tree/main/src/main/java
+- Implementation
+  4: https://github.com/dci-marc/W14-D01-Functional-Programming/tree/main/labs/Functional-programming-exercise/src
