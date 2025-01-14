@@ -314,3 +314,12 @@ Implementation: https://github.com/dci-marc/W09-D03-Type-Casting/tree/main/labs/
 - Implementation 1-3: https://github.com/dci-marc/w14-d01/tree/main/src/main/java
 - Implementation
   4: https://github.com/dci-marc/W14-D01-Functional-Programming/tree/main/labs/Functional-programming-exercise/src
+
+### 2. Java Streams
+
+- Exercise 1: https://github.com/dci-marc/w14-d02
+- Exercise
+  2: https://github.com/dci-marc/W14-D02-Streams/tree/main/labs/functional-programming-2/Lamba-function-exercise
+- Implementation 1: https://github.com/dci-marc/w14-d02/tree/main/src/main/java
+- Implementation
+  2: https://github.com/dci-marc/W14-D02-Streams/tree/main/labs/functional-programming-2/Lamba-function-exercise
