@@ -323,3 +323,12 @@ Implementation: https://github.com/dci-marc/W09-D03-Type-Casting/tree/main/labs/
 - Implementation 1: https://github.com/dci-marc/w14-d02/tree/main/src/main/java
 - Implementation
   2: https://github.com/dci-marc/W14-D02-Streams/tree/main/labs/functional-programming-2/Lamba-function-exercise
+
+### 3. Java Lambda Functions & Optional
+
+- Exercise 1: https://github.com/dci-marc/w14-d03/blob/main/src/main/java/org/dcistudent/Exercise.java
+- Exercise 2: https://github.com/dci-marc/W14-D03-Optionals/tree/main/labs/01-streams-additional-lab
+- Exercise 3: https://github.com/dci-marc/W14-D03-Optionals/tree/main/labs/02-Optionals-lab
+- Implementation 1: https://github.com/dci-marc/w14-d03/blob/main/src/main/java/org/dcistudent/Exercise.java
+- Implementation 2: https://github.com/dci-marc/W14-D03-Optionals/tree/main/labs/01-streams-additional-lab
+- Implementation 3: https://github.com/dci-marc/W14-D03-Optionals/tree/main/labs/02-Optionals-lab
