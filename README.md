@@ -332,3 +332,19 @@ Implementation: https://github.com/dci-marc/W09-D03-Type-Casting/tree/main/labs/
 - Implementation 1: https://github.com/dci-marc/w14-d03/blob/main/src/main/java/org/dcistudent/Exercise.java
 - Implementation 2: https://github.com/dci-marc/W14-D03-Optionals/tree/main/labs/01-streams-additional-lab
 - Implementation 3: https://github.com/dci-marc/W14-D03-Optionals/tree/main/labs/02-Optionals-lab
+
+### 4. Maven Dependencies
+
+- Exercise 1: https://github.com/dci-marc/W14-D04-Maven-Dependancies/tree/main/labs/01-Maven-Packaging-Project
+- Exercise 2: https://github.com/dci-marc/W14-D04-Maven-Dependancies/tree/main/labs/02-Maven-Dependancy-Lab
+- Implementation 1: https://github.com/dci-marc/W14-D04-Maven-Dependancies/tree/main/labs/01-Maven-Packaging-Project
+- Implementation 2: https://github.com/dci-marc/W14-D04-Maven-Dependancies/tree/main/labs/02-Maven-Dependancy-Lab
+
+## Week 15
+
+### 1. Java Generics
+
+- Exercise 1: https://github.com/dci-marc/w15-d01
+- Exercise 2: https://github.com/dci-marc/W15-D01-Generics/tree/main/labs/generics-lab
+- Implementation 1: https://github.com/dci-marc/w15-d01/tree/main/src/main/java/org/dcistudent
+- Implementation 2: https://github.com/dci-marc/W15-D01-Generics/tree/main/src/main/java/org/dcistudent
