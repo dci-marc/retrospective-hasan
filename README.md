@@ -348,3 +348,68 @@ Implementation: https://github.com/dci-marc/W09-D03-Type-Casting/tree/main/labs/
 - Exercise 2: https://github.com/dci-marc/W15-D01-Generics/tree/main/labs/generics-lab
 - Implementation 1: https://github.com/dci-marc/w15-d01/tree/main/src/main/java/org/dcistudent
 - Implementation 2: https://github.com/dci-marc/W15-D01-Generics/tree/main/src/main/java/org/dcistudent
+
+### 2. Java Logging
+
+- Exercise 1: https://github.com/dci-marc/W15-D02-Logging/tree/main/labs/01-Logging-Student-Management
+- Exercise 2: https://github.com/dci-marc/W15-D02-Logging/tree/main/labs/02-Logging-Project
+- Implementation 1: https://github.com/dci-marc/W15-D02-Logging/tree/main/src/main/java/org/dcistudent
+- Implementation 2: Not done.
+
+### 3. Java Maven & Gradle
+
+- Exercise 1: https://github.com/dci-marc/W15-D03-Gradle/tree/main/labs/01-Gradle-Bank-Application
+- Exercise 2: https://github.com/dci-marc/W15-D03-Gradle/tree/main/labs/02-Gradle-Dependancies
+- Implementation 1 & 2: https://github.com/dci-marc/W15-D03-Gradle/tree/main/src/main/java/org/dcistudent
+
+### 4. Hava Libraries - Apache Commons
+
+- Exercise: https://github.com/dci-marc/W15-D04-Apache-Commons/tree/main/labs/Java-Libraries-ApacheCommons
+-
+
+Implementation: https://github.com/dci-marc/W15-D04-Apache-Commons/tree/main/labs/Java-Libraries-ApacheCommons/src/main/java
+
+## Week 16
+
+### 1. Java Rest API
+
+- Exercise: https://github.com/dci-marc/W16-D01-Calling-API/tree/main/labs
+- Implementation: https://github.com/dci-marc/W16-D01-Calling-API/tree/main/src/main/java/org/dcistudent
+
+### 2. Java Collections Review
+
+- Exercise 1: https://github.com/dci-marc/W16-D02-Collections-Review/tree/main/labs/01-Basics-Collections-Review-Lab
+- Exercise 2: https://github.com/dci-marc/W16-D02-Collections-Review/tree/main/labs/02-Advanced-Collections-Review-Lab
+- Implementation 1 & 2: https://github.com/dci-marc/W16-D02-Collections-Review/tree/main/src/main/java/org/dcistudent
+
+### 3. Java Binary Search
+
+- Exercise 1: https://github.com/dci-marc/W16-D03-Binary-Search/tree/main/labs/01-Additional-Algorithm-Review-Lab
+- Exercise 2: https://github.com/dci-marc/W16-D03-Binary-Search/tree/main/labs/02-Binary-Search-Lab
+- Implementation 1 & 2: https://github.com/dci-marc/W16-D03-Binary-Search/tree/main/src/main/java/org/dcistudent
+
+### 4. Technical Difficulties
+
+- Nothing.
+
+## Week 17
+
+### 1. Java Sliding Windows Algorithms
+
+- No exercises.
+- Introduction: https://github.com/J24-E03/W17-D01-Sliding-Window-Algorithms/tree/main/src/main/java/com/omar
+
+### 2. Java Dynamic Sized Sliding Windows
+
+- Exercise: https://github.com/dci-marc/W17-D02-Sliding-Window-Dynamic-Size/tree/main/labs
+- Implementation: https://github.com/dci-marc/W17-D02-Sliding-Window-Dynamic-Size/tree/main/src/main/java/org/dcistudent
+
+### 3. Java Two Pointers
+
+- Exercise: https://github.com/dci-marc/W17-D03-Two-Pointer-Algorithm/tree/main/labs
+- Implementation: https://github.com/dci-marc/W17-D03-Two-Pointer-Algorithm/tree/main/src/main/java/org/dcistudent
+
+### 4. Java Recursion
+
+- Exercise: https://github.com/dci-marc/W17-D04-Recursion/tree/main/labs
+- Implementation: https://github.com/dci-marc/W17-D04-Recursion/tree/main/src/main/java/org/dcistudent
