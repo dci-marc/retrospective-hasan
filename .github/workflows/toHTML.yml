@@ -8,6 +8,7 @@ on:
 
 permissions:
   contents: write  # Required for pushing to GitHub Pages
+  id-token: write  # Required for OIDC authentication
 
 jobs:
   convert-and-deploy:
