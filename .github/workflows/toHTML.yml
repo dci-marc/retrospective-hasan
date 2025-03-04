@@ -20,7 +20,7 @@ jobs:
         run: npm install -g markdown-to-html-cli
 
       - name: Convert README.md to index.html
-        run: m2h README.md -o index.html
+        run: npx markdown-to-html-cli README.md -o index.html
 
       - name: Setup GitHub Pages
         uses: actions/configure-pages@v3
